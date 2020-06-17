@@ -1,4 +1,4 @@
-##UNO Game
+# UNO Game
 This is my first python project based on Object Oriented programming. 
 
 UNO is card game played with a specially printed deck.
